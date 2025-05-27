@@ -1,0 +1,18 @@
+# Ignore build output
+dist/
+build/
+
+# Ignore all node_modules
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore coverage reports
+coverage/
+
+# Ignore specific files
+src/legacy/**
+
+# Ignore config files
+!.prettierrc.js
