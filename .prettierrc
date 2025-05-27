@@ -4,5 +4,7 @@
   "trailingComma": "es5",
   "tabWidth": 2,
   "printWidth": 130,
-  "arrowParens": "always"
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "proseWrap": "never"
 }
